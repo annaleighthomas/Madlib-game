@@ -4,10 +4,13 @@
 
 // set event listeners to update state and DOM
 
-const nounOne;
-const nounTwo;
-const nounThree;
-const nounFour;
+
+
+const nounOne = document.getElementById('noun-1')
+const nounTwo = document.getElementById('noun-2')
+const nounThree = document.getElementById('noun-3')
+const nounFour = document.getElementById('noun-4')
+const nounFive = document.getElementById('noun-5')
 
 const verbOne;
 const verbTwo;
