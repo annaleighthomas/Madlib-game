@@ -4,17 +4,17 @@
 
 // set event listeners to update state and DOM
 
-const noun-1;
-const noun-2;
-const noun-3;
-const noun-4;
+const nounOne;
+const nounTwo;
+const nounThree;
+const nounFour;
 
-const verb-1;
-const verb-2;
-const verb-3;
-const verb-4;
+const verbOne;
+const verbTwo;
+const verbThree;
+const verbFour;
 
-const adjective-1;
-const adjective-2;
-const adjective-3;
-const adjective-4;
+const adjectiveOne;
+const adjectiveTwo;
+const adjectiveThree;
+const adjectiveFour;
