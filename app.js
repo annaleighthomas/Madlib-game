@@ -18,7 +18,25 @@ const nounFive = document.getElementById('noun-5');
 const adjective = document.getElementById('adjective');
 
 const answerOne = document.getElementById('answer-one');
+const answerTwo = document.getElementById('answer-two');
+const answerThree = document.getElementById('answer-three');
+const answerFour = document.getElementById('answer-four');
+const answerFive = document.getElementById('answer-five');
+const answerSix = document.getElementById('answer-six');
+const answerSeven = document.getElementById('answer-seven');
+const answerEight = document.getElementById('answer-eight');
+const answerNine = document.getElementById('answer-nine');
+const answerTen = document.getElementById('answer-ten');
 
 submitButton.addEventListener('click', () => {
     answerOne.textContent = nounOne.value;
 });
+
+submitButton.addEventListener('click', () => {
+    answerTwo.textContent = place.value;
+});
+
+submitButton.addEventListener('click', () => {
+    answerThree.textContent = personThing.value;
+});
+
